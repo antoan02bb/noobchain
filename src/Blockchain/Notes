@@ -1,0 +1,14 @@
+MessageDigest - клас от пакета java.security
+SHA256 - cryptographic algorithm
+- We get access to the SHA256 through MessageDigest
+hexadecimal - ?
+digest.digest
+.toHexString()
+GsonBuilder
+builder pattern
+setPrettyPrinting; pretty printing
+hashcash proof of work system
+Litecoin’s difficulty is around 442,592
+
+web address of Creating Your First Blockchain with Java. Part 1.
+https://medium.com/programmers-blockchain/create-simple-blockchain-java-tutorial-from-scratch-6eeed3cb03fa
